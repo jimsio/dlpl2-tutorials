@@ -1,14 +1,9 @@
 
 > Diese Seite bei [https://jimsio.github.io/dlpl2-tutorials/](https://jimsio.github.io/dlpl2-tutorials/) öffnen
 
-## Als Erweiterung verwenden
+## Tutorials
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/jimsio/dlpl2-tutorials** suchen und importieren
+* [Heiße Kartoffel](/dlpl2-tutorials/heisse-kartoffel)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/jimsio/dlpl2-tutorials/workflows/MakeCode/badge.svg)
 
@@ -18,12 +13,6 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/jimsio/dlpl2-tutorials** ein und klicke auf Importieren
 
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/jimsio/dlpl2-tutorials/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
