@@ -4,6 +4,7 @@
 ## Tutorials
 
 * [Heiße Kartoffel](/dlpl2-tutorials/heisse-kartoffel)
+* [Tamagotchi](/dlpl-tutorials/tamagotchi-v2)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/jimsio/dlpl2-tutorials/workflows/MakeCode/badge.svg)
 

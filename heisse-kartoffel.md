@@ -101,5 +101,4 @@ input.onButtonPressed(Button.A, function () {
 
 Jetzt den Code `|Download|` und auf deinen @boardname@ laden und los geht das Spiel!
 
-
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
