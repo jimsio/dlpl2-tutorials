@@ -1,19 +1,14 @@
-
-> Diese Seite bei [https://jimsio.github.io/dlpl2-tutorials/](https://jimsio.github.io/dlpl2-tutorials/) öffnen
-
 ## Tutorials
 
 * [Heiße Kartoffel](/dlpl2-tutorials/heisse-kartoffel)
 * [Tamagotchi](/dlpl-tutorials/tamagotchi-v2)
 
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/jimsio/dlpl2-tutorials/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
+## Repository in MakeCode bearbeiten
 
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/jimsio/dlpl2-tutorials** ein und klicke auf Importieren
-
+* ändere von Blöcken auf **JavaScript**, links findet man den Verzeichnisbaum
 
 #### Metadaten (verwendet für Suche, Rendering)
 
