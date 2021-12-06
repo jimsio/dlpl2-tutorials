@@ -1,7 +1,10 @@
 ## Tutorials
 
+Entstanden im Zuge des Projekts DLPL v2 im Jahr 2021
+
 * [Heiße Kartoffel](/dlpl2-tutorials/heisse-kartoffel)
 * [Tamagotchi](/dlpl-tutorials/tamagotchi-v2)
+* [bit:balance:board](/dlpl-tutorials/bit-balance-board)
 
 ## Repository in MakeCode bearbeiten
 
