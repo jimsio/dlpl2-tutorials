@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "heisse-kartoffel.md",
-        "tamagotchi-v2.md"
+        "tamagotchi-v2.md",
+        "bit-balance-board.md"
     ],
     "testFiles": [
         "test.ts"
