@@ -17,7 +17,7 @@ Entstanden im Zuge des Projekts DLPL v2 im Jahr 2021
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/jimsio/dlpl2-tutorials** ein und klicke auf Importieren
-* ändere von Blöcken auf **JavaScript**, links findet man den Verzeichnisbaum
+* ändere von Blöcken auf **JavaScript**, links findet man den Verzeichnisbaum mit den Dateien
 
 #### Metadaten (verwendet für Suche, Rendering)
 
