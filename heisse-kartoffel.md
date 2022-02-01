@@ -1,6 +1,6 @@
 # Heiße Kartoffel - Das Partyspiel
 
-## Einführung @unplugged
+## Einführung @showdialog
 
 In jeder Runde dieses Spiels wird durch Drücken des Buttons A eine Stoppuhr bei einer zufälligen Zahl gestartet. 
 Wenn die Stoppuhr fertig heruntergezählt hat, zeigt sie ein Symbol an und die Person, die die Heiße Kartoffel gerade in der Hand hält scheidet aus.

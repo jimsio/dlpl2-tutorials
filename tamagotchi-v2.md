@@ -1,6 +1,6 @@
 # Tamagotchi v2
 
-## 1. Einführung @unplugged
+## 1. Einführung @showdialog
 
 👋 Hallo! Dein eigenes virtuelles Haustier **Betty** wartet auf dich! 🐰 🐶 🐱
 

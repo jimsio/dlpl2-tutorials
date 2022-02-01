@@ -1,6 +1,6 @@
 # bit:balance:board
 
-## 1. Einführung @unplugged
+## 1. Einführung @showdialog
 
 🏄‍♀️ Heute wird gesurft! - Wer kann am besten die Balance halten? 🏄🏾
 
