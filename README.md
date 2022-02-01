@@ -2,9 +2,9 @@
 
 Entstanden im Zuge des Projekts DLPL v2 im Jahr 2021
 
-* [Heiße Kartoffel](/dlpl2-tutorials/heisse-kartoffel)
-* [Tamagotchi](/dlpl-tutorials/tamagotchi-v2)
-* [bit:balance:board](/dlpl-tutorials/bit-balance-board)
+* [Heiße Kartoffel](/dlpl2-tutorials/heisse-kartoffel) [start](https://makecode.microbit.org/#tutorial:github:jimsio/dlpl2-tutorials/heisse-kartoffel)
+* [Tamagotchi](/dlpl-tutorials/tamagotchi-v2) [start](https://makecode.microbit.org/#tutorial:github:jimsio/dlpl2-tutorials/tamagotchi-v2)
+* [bit:balance:board](/dlpl-tutorials/bit-balance-board) [start](https://makecode.microbit.org/#tutorial:github:jimsio/dlpl2-tutorials/bit-balance-board)
 
 ## Repository in MakeCode bearbeiten
 
