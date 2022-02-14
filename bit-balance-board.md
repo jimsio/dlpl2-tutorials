@@ -14,7 +14,6 @@
 
 ```blocks
 let zähler = 0
-timer = 0
 ```
 
 ## 3. Dauerschleife
