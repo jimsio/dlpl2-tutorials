@@ -6,7 +6,7 @@ In jeder Runde dieses Spiels wird durch Drücken des Buttons A eine Stoppuhr bei
 Wenn die Stoppuhr fertig heruntergezählt hat, zeigt sie ein Symbol an und die Person, die die Heiße Kartoffel gerade in der Hand hält scheidet aus.
 Dann wird die nächste Runde gestartet, bis nur noch eine Person übrig ist.
 
-## Schritt 1 @fullscreen
+## Schritt 1
 
 Das Ereignis ``||input:wenn Knopf A gedrückt||`` startet die Runde.
 
@@ -15,7 +15,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Schritt 2 @fullscreen
+## Schritt 2
 
 Erstelle eine Variable ``||variables:zaehler||`` und ``||variables:setze||`` diese auf eine ``||math:zufällige Zahl||`` zwischen ``5`` and ``15``.
 
@@ -29,7 +29,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Schritt 3 @fullscreen
+## Schritt 3
 
 Verwende ``||basic:zeige Symbol||`` und das Hakerl um den Start der Stoppuhr / der Runde anzuzeigen.
 
@@ -42,7 +42,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Schritt 4 @fullscreen
+## Schritt 4
 
 
 Die ``||loops:Während / Solange||``-Schleife soll so lange laufen wie ``||variables:zaehler||`` ``||logic:positiv / > 0 ||`` ist. 
@@ -60,7 +60,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Schritt 5 @fullscreen
+## Schritt 5
 
 In der ``||loops:Während / Solange||``-Schleife, soll er bei jedem Durchlauf ``||variables:zaehler||`` um -1 ``||variables:ändern||``.
 Da der @boardname@ sehr schnell rechnen kann, muss man bei jedem Durchlauf eine Sekunde (1000 ms) ``||basic:pausieren||``.
@@ -79,7 +79,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Schritt 6 @fullscreen
+## Schritt 6
 
 **Nach** der ``||loops:Während / Solange||``-Schleife soll er ``||basic:zeigen||``, dass die Runde vorbei ist und die Person mit dem @boardname@ in der Hand ausscheidet.
 
@@ -97,7 +97,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Schritt 7 @fullscreen
+## Schritt 7
 
 Jetzt den Code `|Download|` und auf deinen @boardname@ laden und los geht das Spiel!
 
